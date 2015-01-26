@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<h1>Spring MVC skeleton with Gradle build, Hibernate persistance and Selenium functional testing</h1>
-		<p>Go to <a href="<c:url value='/user' />">User</a> page.</p>
+		<p>Go to <a href="<c:url value='/login' />">User</a> page.</p>
 		<a href="<c:url value="j_spring_security_logout" />" > Logout</a>
 	</body>
 </html>
